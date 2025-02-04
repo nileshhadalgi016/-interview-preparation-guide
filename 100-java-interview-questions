@@ -1,0 +1,106 @@
+## 100 Java Interview Questions
+
+list of 100 Java interview questions arranged in chronological order from easy to most
+difficult:
+1. What is Java?
+2. What are the main features of Java?
+3. What is the difference between JDK, JRE, and JVM?
+4. Explain the Java Virtual Machine (JVM) architecture.
+5. What are the data types in Java?
+6. Explain the differences between primitive and reference types in Java.
+7. How do you declare a variable in Java?
+8. What are the four access modifiers in Java?
+9. What is the "final" keyword used for in Java?
+10. What is autoboxing and unboxing in Java?
+11. How do you create an object in Java?
+12. What is the difference between the stack and the heap in memory management?
+13. How do you handle exceptions in Java?
+14. What are checked and unchecked exceptions in Java?
+15. What is the purpose of the "finally" block in exception handling?
+16. Explain the difference between "equals" and "==" in Java.
+17. How does the Java garbage collection work?
+18. What is method overloading in Java?
+19. What is method overriding in Java?
+20. Explain the "this" keyword in Java.
+21. What is a constructor in Java?
+22. How do you achieve multiple inheritance in Java?
+23. What are abstract classes in Java?
+24. What is an interface in Java?
+25. Can you have a private interface in Java 9 and above?
+26. Explain the "static" keyword in Java.
+27. What are static methods and static variables in Java?
+28. What is the purpose of the "final" keyword for methods and classes?
+29. How does Java support multiple threads?
+30. What is synchronization in Java?
+31. Explain the "volatile" keyword in Java.
+32. What are Java annotations?
+33. How do you define custom annotations in Java?
+34. What is the difference between "ArrayList" and "LinkedList" in Java?
+35. How does the "HashMap" work in Java?
+36. What is the difference between "HashSet" and "TreeSet" in Java?
+37. How do you sort elements in a collection in Java?
+38. What is the "Comparable" interface in Java?
+39. How do you handle file I/O in Java?
+40. What are Java streams and how do you use them?
+41. What is a lambda expression in Java?
+42. How do you use the "forEach" method in Java streams?
+43. Explain the "try-with-resources" statement in Java.
+44. What is the difference between "StringBuilder" and "StringBuffer" in Java?
+45. What is the "transient" keyword in Java?
+46. How do you create and start a thread in Java?
+47. Explain the "Executor" framework in Java.
+48. What is a deadlock in Java? How do you avoid it?
+49. What is the "volatile" keyword used for in Java concurrency?
+50. How do you implement a producer-consumer problem in Java?
+51. Explain the "ThreadLocal" class in Java.
+52. What is the "synchronized" keyword used for in Java?
+53. How do you implement a custom exception in Java?
+54. What are the design patterns in Java? Explain any two.
+55. How do you serialize and deserialize objects in Java?
+56. What is the "clone" method in Java and how do you use it?
+57. How do you implement a binary search algorithm in Java?
+58. Explain the "java.util.Collections" class in Java.
+59. What is the "java.util.Optional" class in Java?
+60. How do you implement a singly linked list in Java?
+61. Explain the "java.util.concurrent" package in Java.
+62. What is the "CompletableFuture" class in Java?
+63. How do you use reflection in Java?
+64. What is the difference between a shallow copy and a deep copy in Java?
+65. How do you implement a merge sort algorithm in Java?
+66. Explain the "java.util.concurrent.locks" package in Java.
+67. What is the "java.util.stream.Collectors" class in Java?
+68. How do you implement a binary tree in Java?
+69. Explain the "java.util.stream" package in Java.
+70. What is the difference between "Array" and "ArrayList" in Java?
+71. How do you implement a quicksort algorithm in Java?
+72. Explain the "java.util.function" package in Java.
+73. What is the "java.util.OptionalInt" class in Java?
+74. How do you implement a stack in Java?
+75. Explain the "java.util.concurrent.atomic" package in Java.
+76. What is the "java.util.Deque" interface in Java?
+77. How do you implement a breadth-first search (BFS) algorithm in Java?
+78. Explain the "java.util.OptionalDouble" class in Java?
+79. What is the "java.util.PriorityQueue" class in Java?
+80. How do you implement a depth-first search (DFS) algorithm in Java?
+81. Explain the "java.util.OptionalLong" class in Java?
+82. What is the "java.util.LinkedHashMap" class in Java?
+83. How do you implement a hash table in Java?
+84. Explain the "java.util.EnumSet" class in Java?
+85. What is the "java.util.WeakHashMap" class in Java?
+86. How do you implement a trie data structure in Java?
+87. Explain the "java.util.concurrent.BlockingQueue" interface in Java.
+88. What is the "java.util.concurrent.CopyOnWriteArrayList" class in Java?
+89. How do you implement a red-black tree in Java?
+90. Explain the "java.util.concurrent.CountDownLatch" class in Java.
+91. What is the "java.util.concurrent.Exchanger" class in Java?
+92. How do you implement a graph data structure in Java?
+93. Explain the "java.util.concurrent.Phaser" class in Java?
+94. What is the "java.util.concurrent.ConcurrentSkipListSet" class in Java?
+95. How do you implement a B-tree in Java?
+96. Explain the "java.util.concurrent.CyclicBarrier" class in Java?
+97. What is the "java.util.concurrent.ThreadLocalRandom" class in Java?
+98. How do you implement a radix sort algorithm in Java?
+99. Explain the "java.util.concurrent.ForkJoinPool" class in Java.
+100. What is the "java.util.concurrent.ThreadPoolExecutor" class in Java?
+
+Curated with ❤ + 🧠 by @techie_programmer
